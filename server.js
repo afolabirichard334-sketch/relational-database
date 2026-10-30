@@ -6,7 +6,7 @@ const userRouter = require('./router/router.js');
 const postRouter = require('./router/PostRouter.js');
 
 const app = express();
-const PORT = 5000;
+const PORT = 500;
 
 app.use(express.json());
 
